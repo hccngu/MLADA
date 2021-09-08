@@ -38,7 +38,7 @@ Finally, we utilize a ridge regression classifier to obtain final classification
 
 The figure gives an overview of our model.
 
-![MLADA Network architecture](assets/model.png =400x300)
+![MLADA Network architecture](assets/model.png 400x300)
 
 ### Data
 
